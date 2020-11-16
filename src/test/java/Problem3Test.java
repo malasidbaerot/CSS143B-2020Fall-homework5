@@ -1,3 +1,4 @@
+import Problem1.InOrderTraverse;
 import Problem1.TreeNode;
 import Problem3.InsertInBST;
 import org.junit.Test;
@@ -36,6 +37,7 @@ public class Problem3Test {
     public void testInOrderTraverse() {
         // homework
         // to verify inOrderTraverse(TreeNode<Integer> node)
+
     }
 
     private static List<Integer> inOrderTraverse(TreeNode<Integer> node) {
